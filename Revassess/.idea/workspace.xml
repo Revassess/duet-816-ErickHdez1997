@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="244bd78f-7163-4032-8d9e-399ce493ce11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/revature/tier4/answers/Tier4Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/revature/tier4/answers/Tier4Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +135,7 @@
       <workItem from="1597090823734" duration="3000" />
       <workItem from="1597090835327" duration="1305000" />
       <workItem from="1597093239907" duration="28000" />
-      <workItem from="1597093355229" duration="295000" />
+      <workItem from="1597093355229" duration="646000" />
     </task>
     <servers />
   </component>

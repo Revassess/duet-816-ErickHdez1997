@@ -10,7 +10,7 @@ import java.sql.Connection;
  *         connection. You should change the url, username, and password. DO NOT
  *         CHANGE THE MODIFIERS OR THE NAMES OF THE VARIABLES. These are used to
  *         test your db schema.
- */
+   */  
 public class ConnectionUtil {
 	//for singleton instance
 	private static ConnectionUtil cu;
