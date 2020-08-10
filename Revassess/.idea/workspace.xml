@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="244bd78f-7163-4032-8d9e-399ce493ce11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/2007_jul13_java_august/Erick_Hernandez_Code/Project 0 - Bank Application SQL" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -34,7 +35,22 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="JUnit.Tier3Tests">
+  <component name="RunManager" selected="JUnit.Answer1Tests (1)">
+    <configuration name="Answer1Tests (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier4.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier4.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier4.answers.Answer1Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Answer1Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Revassess" />
       <extension name="coverage">
@@ -45,21 +61,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.revature.tier3.answers" />
       <option name="MAIN_CLASS_NAME" value="com.revature.tier3.answers.Answer1Tests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Answer2Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Revassess" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.revature.tier3.answers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.revature.tier3.answers" />
-      <option name="MAIN_CLASS_NAME" value="com.revature.tier3.answers.Answer2Tests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Answer1Tests (1)" />
         <item itemvalue="JUnit.Tier3Tests" />
         <item itemvalue="JUnit.Answer1Tests" />
         <item itemvalue="JUnit.PointsTests" />
         <item itemvalue="JUnit.Answer3Tests" />
-        <item itemvalue="JUnit.Answer2Tests" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +136,7 @@
       <workItem from="1597090823734" duration="3000" />
       <workItem from="1597090835327" duration="1305000" />
       <workItem from="1597093239907" duration="28000" />
-      <workItem from="1597093355229" duration="646000" />
+      <workItem from="1597093355229" duration="1613000" />
     </task>
     <servers />
   </component>
@@ -151,22 +152,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597090876739" />
-    <state width="2517" height="495" key="GridCell.Tab.0.bottom" timestamp="1597093668024">
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1597094613702">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="495" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597093668024" />
-    <state width="2517" height="495" key="GridCell.Tab.0.center" timestamp="1597093668024">
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597094613702" />
+    <state width="2517" height="274" key="GridCell.Tab.0.bottom" timestamp="1597094969582">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="495" key="GridCell.Tab.0.center/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597093668024" />
-    <state width="2517" height="495" key="GridCell.Tab.0.left" timestamp="1597093668024">
+    <state width="2517" height="274" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597094969582" />
+    <state width="2517" height="274" key="GridCell.Tab.0.center" timestamp="1597094969582">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="495" key="GridCell.Tab.0.left/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597093668024" />
-    <state width="2517" height="495" key="GridCell.Tab.0.right" timestamp="1597093668024">
+    <state width="2517" height="274" key="GridCell.Tab.0.center/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597094969582" />
+    <state width="2517" height="274" key="GridCell.Tab.0.left" timestamp="1597094969582">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="495" key="GridCell.Tab.0.right/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597093668024" />
+    <state width="2517" height="274" key="GridCell.Tab.0.left/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597094969582" />
+    <state width="2517" height="274" key="GridCell.Tab.0.right" timestamp="1597094969582">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="274" key="GridCell.Tab.0.right/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597094969582" />
     <state x="810" y="354" key="Maven.ArtifactSearchDialog" timestamp="1597093211235">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

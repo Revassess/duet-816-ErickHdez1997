@@ -1,6 +1,10 @@
 package com.revature.config;
 
+import org.postgresql.Driver;
+
 import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
 
 /**
  * 
@@ -10,7 +14,7 @@ import java.sql.Connection;
  *         connection. You should change the url, username, and password. DO NOT
  *         CHANGE THE MODIFIERS OR THE NAMES OF THE VARIABLES. These are used to
  *         test your db schema.
-   */  
+   */
 public class ConnectionUtil {
 	//for singleton instance
 	private static ConnectionUtil cu;
@@ -26,26 +30,33 @@ public class ConnectionUtil {
 	// name of the created sequence in tier 3
 	public static final String TIER_3_SEQUENCE_NAME = "id_sequence";
 
-	// implement this method to connect to the db and return the connection object
-	public Connection connect(){
-		return null;
+	static {
+		try {
+			DriverManager.registerDriver(new Driver());
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
 	}
 
+	// implement this method to connect to the db and return the connection object
+	public Connection connect() throws SQLException {
+		return DriverManager.getConnection(URL, USERNAME, PASSWORD);
+	}
 
 	//implement this method with a callable statement that calls the absolute value sql function
 	public long callAbsoluteValueFunction(long value){
 		return value;
 	}
-	
 
 	//make the class into a singleton
-	private ConnectionUtil(){
+	private ConnectionUtil() {
 		super();
 	}
 
-	public static ConnectionUtil getInstance(){
+	public static ConnectionUtil getInstance() throws SQLException {
 		if(cu == null){
 			cu = new ConnectionUtil();
+
 		}
 		return cu;
 	}
