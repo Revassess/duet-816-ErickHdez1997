@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="244bd78f-7163-4032-8d9e-399ce493ce11" name="Default Changelist" comment="" />
+    <list default="true" id="244bd78f-7163-4032-8d9e-399ce493ce11" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,24 +25,36 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
-    <configuration name="SumOverArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.revature.tier1.SumOverArray" />
+    <configuration name="Answer1Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Revassess" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.revature.tier1.*" />
+          <option name="PATTERN" value="com.revature.tier3.answers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier3.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier3.answers.Answer1Tests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOverArray" />
+        <item itemvalue="JUnit.Answer1Tests.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -55,6 +70,9 @@
       <updated>1597085184080</updated>
       <workItem from="1597085186858" duration="586000" />
       <workItem from="1597086012818" duration="311000" />
+      <workItem from="1597090823734" duration="3000" />
+      <workItem from="1597090835327" duration="1305000" />
+      <workItem from="1597093239907" duration="28000" />
     </task>
     <servers />
   </component>
@@ -62,6 +80,14 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="760" y="274" key="#Project_Structure" timestamp="1597093052371">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="#Project_Structure/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597093052371" />
+    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597090876739">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597090876739" />
     <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1597088167571">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -78,5 +104,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597088167571" />
+    <state x="810" y="354" key="Maven.ArtifactSearchDialog" timestamp="1597093211235">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="810" y="354" key="Maven.ArtifactSearchDialog/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597093211235" />
   </component>
 </project>
