@@ -18,7 +18,7 @@ public class SumOverArray {
 	public static void main(String[] args) {
 		SumOverArray check = new SumOverArray();
 
-		int [] arr2 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 };
+		int [] arr2 = { 1, 5 ,3};
 		int[] arr3 = { -1, -2, -3, -4, -5, -6, -7, -8, -9 };
 		int[] arr4 = { 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80 };
 		int[] arr1 = null;

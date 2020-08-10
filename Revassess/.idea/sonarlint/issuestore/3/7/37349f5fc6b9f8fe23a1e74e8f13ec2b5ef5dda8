@@ -1,4 +1,14 @@
 
-c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ûÚ¾
 W
-java:S1118":Add a private constructor to hide the implicit public one.(Â¹Ô§8¯­âÍ½.
+java:S2209"5Change this instance-reference to a static reference.(¥­‡ğûÿÿÿÿ8ÕÜ£Ò½.
+Q
+java:S2209"5Change this instance-reference to a static reference.(àšÖV8ÕÜ£Ò½.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(†®Å 8ÕÜ£Ò½.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥­‡ğûÿÿÿÿ8ÕÜ£Ò½.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(àšÖV8ÕÜ£Ò½.
+R
+java:S2209"5Change this instance-reference to a static reference.(ÿÛ«Ì8ÕÜ£Ò½.
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ûÚ¾
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÛ«Ì8ÕÜ£Ò½.
+Q
+java:S2209"5Change this instance-reference to a static reference.(†®Å 8ÕÜ£Ò½.
