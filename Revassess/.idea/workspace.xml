@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="244bd78f-7163-4032-8d9e-399ce493ce11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/revature/config/ConnectionUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/revature/tier4/answers/Tier4Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/revature/tier4/answers/Tier4Tests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +35,8 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
-    <configuration name="Answer1Tests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Tier3Tests">
+    <configuration name="Answer1Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Revassess" />
       <extension name="coverage">
         <pattern>
@@ -46,15 +46,78 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.revature.tier3.answers" />
       <option name="MAIN_CLASS_NAME" value="com.revature.tier3.answers.Answer1Tests" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer2Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier3.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier3.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier3.answers.Answer2Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Answer3Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier3.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier3.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier3.answers.Answer3Tests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointsTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier3.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier3.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier3.answers.PointsTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tier3Tests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Revassess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.revature.tier3.answers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.revature.tier3.answers" />
+      <option name="MAIN_CLASS_NAME" value="com.revature.tier3.answers.Tier3Tests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Answer1Tests.test1" />
+        <item itemvalue="JUnit.Tier3Tests" />
+        <item itemvalue="JUnit.Answer1Tests" />
+        <item itemvalue="JUnit.PointsTests" />
+        <item itemvalue="JUnit.Answer3Tests" />
+        <item itemvalue="JUnit.Answer2Tests" />
       </list>
     </recent_temporary>
   </component>
@@ -73,6 +136,7 @@
       <workItem from="1597090823734" duration="3000" />
       <workItem from="1597090835327" duration="1305000" />
       <workItem from="1597093239907" duration="28000" />
+      <workItem from="1597093355229" duration="295000" />
     </task>
     <servers />
   </component>
@@ -88,22 +152,22 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="734" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597090876739" />
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1597088167571">
+    <state width="2517" height="495" key="GridCell.Tab.0.bottom" timestamp="1597093668024">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597088167571" />
-    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1597088167571">
+    <state width="2517" height="495" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597093668024" />
+    <state width="2517" height="495" key="GridCell.Tab.0.center" timestamp="1597093668024">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597088167571" />
-    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1597088167571">
+    <state width="2517" height="495" key="GridCell.Tab.0.center/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597093668024" />
+    <state width="2517" height="495" key="GridCell.Tab.0.left" timestamp="1597093668024">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597088167571" />
-    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1597088167571">
+    <state width="2517" height="495" key="GridCell.Tab.0.left/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597093668024" />
+    <state width="2517" height="495" key="GridCell.Tab.0.right" timestamp="1597093668024">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597088167571" />
+    <state width="2517" height="495" key="GridCell.Tab.0.right/0.0.2560.1400/2560.-851.1080.2520/-1920.160.1920.1040@0.0.2560.1400" timestamp="1597093668024" />
     <state x="810" y="354" key="Maven.ArtifactSearchDialog" timestamp="1597093211235">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
