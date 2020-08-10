@@ -1,0 +1,1 @@
+select app_user.username, category.name, flashcard.question, flashcard.answer from app_user, category, flashcard, study_set where study_set.owner_id = 4;
